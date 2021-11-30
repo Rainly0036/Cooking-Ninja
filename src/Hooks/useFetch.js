@@ -11,7 +11,7 @@ export const useFetch = (url, method = "GET") => {
       headers: {
         "Content-type": "application/json"
       },
-      body: JSON.stringify(postData)
+      body: JSON.stringify(postData)   
     })
   }
   

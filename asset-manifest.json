@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cooking-Ninja/static/css/main.e6be6d7c.chunk.css",
+    "main.js": "/Cooking-Ninja/static/js/main.751d6d0c.chunk.js",
+    "main.js.map": "/Cooking-Ninja/static/js/main.751d6d0c.chunk.js.map",
+    "runtime-main.js": "/Cooking-Ninja/static/js/runtime-main.c932c6a0.js",
+    "runtime-main.js.map": "/Cooking-Ninja/static/js/runtime-main.c932c6a0.js.map",
+    "static/js/2.159dc83f.chunk.js": "/Cooking-Ninja/static/js/2.159dc83f.chunk.js",
+    "static/js/2.159dc83f.chunk.js.map": "/Cooking-Ninja/static/js/2.159dc83f.chunk.js.map",
+    "index.html": "/Cooking-Ninja/index.html",
+    "static/css/main.e6be6d7c.chunk.css.map": "/Cooking-Ninja/static/css/main.e6be6d7c.chunk.css.map",
+    "static/js/2.159dc83f.chunk.js.LICENSE.txt": "/Cooking-Ninja/static/js/2.159dc83f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c932c6a0.js",
+    "static/js/2.159dc83f.chunk.js",
+    "static/css/main.e6be6d7c.chunk.css",
+    "static/js/main.751d6d0c.chunk.js"
+  ]
+}
